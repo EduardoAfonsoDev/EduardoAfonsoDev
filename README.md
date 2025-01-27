@@ -30,8 +30,9 @@
 <img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Projeto One-EC5252?style=for-the-badge&logo=Alura&logoColor=white" />
 </div></br></br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    if(  cafe > 0){ 'Vamos trabalhar!!!!'}else{ 'Vamos fazer café' }
-</div>
-
+##   if(  $cafe > 0 and $statusCafe == 'café pronto'){ 
+##                  'Vamos codar!!!!';
+##    }else{
+##         'Vamos fazer café' ;
+##    }
 
