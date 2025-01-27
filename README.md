@@ -31,7 +31,7 @@
 </div></br></br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    Apaixonado por tecnologia...
+    if(  cafe > 0){ 'Vamos trabalhar!!!!'}else{ 'Vamos fazer café' }
 </div>
 
 
