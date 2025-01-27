@@ -9,15 +9,23 @@
 
 ## Tecnologias que eu uso no meu dia-a-dia
 <div style="display: inline_block"><br/>
-
 <img align="center" alt="htm15" src="https://img.shields.io/badge/HTML5-E34F26?
 style=for-the-badge&logo-htmlS&logoColor=white" />
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&
 logo=css3&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<div style="display: inline_block"><br/>
+<img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img align="center" alt="Bitcoin" src="https://img.shields.io/badge/alura-EC5252?style=for-the-badge&logo=Alura&logoColor=white" />
+<img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Projeto One-EC5252?style=for-the-badge&logo=Alura&logoColor=white" />
 </div>
 
 ## Projetos da minha autoria
@@ -26,4 +34,5 @@ logo=css3&logoColor=white" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  
 </a>
