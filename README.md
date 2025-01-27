@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAfonsoDev&show_icons=true&theme=radical)
 
 <div style="display: flex; justify-content: center; align-items: center;">
- <h1>Tecnologias que eu uso no meu dia-a-dia</h1>
+ <h1>Tecnologias que eu uso no meu dia-a-dia 👌</h1>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
